@@ -42,7 +42,7 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 
 | Nº  | Projeto                          | Status         | Link/Demo                                                                 |
 |-----|----------------------------------|----------------|---------------------------------------------------------------------------|
-| 01  | Expanding Cards                  | ✅ Concluído | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards) |
+| 01  | Expanding Cards                  | ✅ Concluído | [🔗 Ver](https://50projects50days.com/projects/expanding-cards/) |
 | 02  | Progress Steps                   | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps) |
 | 03  | Rotating Navigation Animation    | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation) |
 | 04  | Hidden Search Widget             | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search) |
