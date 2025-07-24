@@ -46,8 +46,8 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 | 01  | Expanding Cards               | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/expanding-cards/)                                |
 | 02  | Progress Steps                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/progress-steps/)                                 |
 | 03  | Rotating Navigation Animation | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/rotating-navigation-animation/)                  |
-| 04  | Hidden Search Widget          | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)            |
-| 05  | Blurry Loading                | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/blurry-loading)           |
+| 04  | Hidden Search Widget          | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/hidden-search-widget/)                           |
+| 05  | Blurry Loading                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/blurry-loading/)                                 |
 | 06  | Scroll Animation              | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/scroll-animation)         |
 | 07  | Split Landing Page            | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page)       |
 | 08  | Form Wave Animation           | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/form-wave)                |
