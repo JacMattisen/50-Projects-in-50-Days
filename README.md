@@ -50,7 +50,11 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 | 05  | Blurry Loading                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/blurry-loading/)                                 |
 | 06  | Scroll Animation              | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/scroll-animation/)                               |
 | 07  | Split Landing Page            | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/split-landing-page/)                             |
+<<<<<<< HEAD
 | 08  | Form Wave Animation           | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/form-wave-animation/)                            |
+=======
+| 08  | Form Wave Animation           | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/form-wave)                |
+>>>>>>> e910d132c3be507e8c449efd852c95096c43a86e
 | 09  | Sound Board                   | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/sound-board)              |
 | 10  | Dad Jokes                     | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes)                |
 | 11  | Event KeyCodes                | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/event-keycodes)           |
