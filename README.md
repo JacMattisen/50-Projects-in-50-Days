@@ -51,9 +51,9 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 | 06  | Scroll Animation              | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/scroll-animation/)                               |
 | 07  | Split Landing Page            | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/split-landing-page/)                             |
 | 08  | Form Wave Animation           | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/form-wave-animation/)                            |
-| 09  | Sound Board                   | ✅ Concluído |  [🔗 Ver](https://50projects50days.com/projects/sound-board/)                                       |
-| 10  | Dad Jokes                     | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes)                |
-| 11  | Event KeyCodes                | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/event-keycodes)           |
+| 09  | Sound Board                   | ✅ Concluído    |  [🔗 Ver](https://50projects50days.com/projects/sound-board/)                                   |
+| 10  | Dad Jokes                     | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/dad-jokes)                                       |
+| 11  | Event KeyCodes                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/event-keycodes)                                  |
 | 12  | FAQ Collapse                  | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/faq-collapse)             |
 | 13  | Random Choice Picker          | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/random-choice-picker)     |
 | 14  | Animated Navigation           | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation)      |
