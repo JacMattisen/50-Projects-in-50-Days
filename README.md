@@ -41,8 +41,8 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 
 ---
 
-| Nº  | Projeto                       | Status          | Link/Demo                                                                                       |
-| --- | ----------------------------- | --------------- | ----------------------------------------------------------------------------------------------- |
+| Nº  | Projeto                       | Status          | Link/Demo                                                                                        |
+| --- | ----------------------------- | --------------- | -----------------------------------------------------------------------------------------------  |
 | 01  | Expanding Cards               | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/expanding-cards/)                                |
 | 02  | Progress Steps                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/progress-steps/)                                 |
 | 03  | Rotating Navigation Animation | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/rotating-navigation-animation/)                  |
@@ -54,13 +54,13 @@ Cada pasta representa um mini projeto com seus próprios arquivos `index.html`, 
 | 09  | Sound Board                   | ✅ Concluído    |  [🔗 Ver](https://50projects50days.com/projects/sound-board/)                                   |
 | 10  | Dad Jokes                     | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/dad-jokes)                                       |
 | 11  | Event KeyCodes                | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/event-keycodes)                                  |
-| 12  | FAQ Collapse                  | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/faq-collapse)             |
-| 13  | Random Choice Picker          | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/random-choice-picker)     |
-| 14  | Animated Navigation           | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation)      |
-| 15  | Incrementing Counter          | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/incrementing-counter)     |
-| 16  | Drink Water                   | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/drink-water)              |
-| 17  | Movie App                     | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/movie-app)                |
-| 18  | Background Slider             | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/background-slider)        |
+| 12  | FAQ Collapse                  | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/faq-collapse)                                    |
+| 13  | Random Choice Picker          | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/random-choice-picker)                            |
+| 14  | Animated Navigation           | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/animated-navigation)                             |
+| 15  | Incrementing Counter          | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/incrementing-counter)                            |
+| 16  | Drink Water                   | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/drink-water)                                     |
+| 17  | Movie App                     | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/movie-app)                                       |
+| 18  | Background Slider             | ✅ Concluído    | [🔗 Ver](https://50projects50days.com/projects/background-slider)                               |
 | 19  | Theme Clock                   | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/theme-clock)              |
 | 20  | Button Ripple Effect          | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/button-ripple-effect)     |
 | 21  | Drag and Drop                 | ⏳ Em andamento | [🔗 Ver](https://github.com/bradtraversy/50projects50days/tree/master/drag-n-drop)              |
